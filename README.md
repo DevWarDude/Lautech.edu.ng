@@ -1,2 +1,1 @@
-A clone of Lautech por
-tal
+A clone of Lautech portal
